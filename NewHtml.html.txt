@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Welcome</title>
+</head>
+
+<p>Welcome to New HTml file</p>
+</html>
